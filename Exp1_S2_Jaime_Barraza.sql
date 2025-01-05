@@ -660,12 +660,6 @@ COMMIT;
 
 
 
-SELECT * FROM CLIENTE;
-WHERE ID_CLI = 185;
-
-
-
-
 
 
 
